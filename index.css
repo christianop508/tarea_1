@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+}
+
+body{
+    background-color: dodgerblue;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a, img{
+    display: block;
+}
+
+a{
+    margin: 50px;
+}
+
+h2{
+    text-align: center;
+    color: crimson;
+}
